@@ -105,8 +105,8 @@
         }
     },
     "background": {
-        "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Gansing/discord-stuff/main/purpleserenitybg.jpg",
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/Para-lyzed/discord-theme/refs/heads/main/pink-mountains-scaled-phone.png",
         "alpha": 0.4
     },
     "spec": 2
