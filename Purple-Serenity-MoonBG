@@ -107,7 +107,7 @@
     "background": {
         "blur": 0.0,
         "url": "https://raw.githubusercontent.com/Para-lyzed/discord-theme/refs/heads/main/IMG_20250716_205556.jpg",
-        "alpha": 0.0
+        "alpha": 1.0
     },
     "spec": 2
 }
