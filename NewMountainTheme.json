@@ -423,7 +423,7 @@
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/Para-lyzed/discord-theme/refs/heads/main/IMG_20250716_2055561.jpg",
-    "alpha": 0.8,
+    "alpha": 0.95,
     "blur": 0.0
   }
 }
